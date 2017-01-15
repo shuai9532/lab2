@@ -20,6 +20,7 @@ body {
 	position: relative;
 	background: none;
 }
+/*
 .project{
 	margin-left: 20px;
 	background-color: #DEEAF6;
@@ -37,6 +38,7 @@ body {
 	padding-left: 14px;
 
 }
+*/
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
