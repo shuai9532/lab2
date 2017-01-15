@@ -20,7 +20,23 @@ body {
 	position: relative;
 	background: none;
 }
+.project{
+	margin-left: 20px;
+	background-color: #DEEAF6;
+	width: 600px;
+}
 
+.project img{
+	padding-top: 15px; 
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.project p {
+	font-variant: small-caps;
+	padding-top: 10px;
+	padding-left: 14px;
+
+}
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
