@@ -32,13 +32,11 @@ body {
 	padding-left: 15px;
 	padding-right: 15px;
 }
+*/
 .project p {
-	font-variant: small-caps;
-	padding-top: 10px;
-	padding-left: 14px;
+	padding-left: 300px;
 
 }
-*/
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
