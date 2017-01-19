@@ -34,8 +34,8 @@ body {
 }
 */
 .project p {
-	padding-left: 400px;
-
+	padding-left: 300px;
+	font-variant: small-caps;
 }
 .jumbotron:after {
      content:"";
